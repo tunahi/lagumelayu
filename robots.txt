@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://lagumelayu.herokuapp.com/host-http-stafalagu.wapku.net/sitemap.xml
+Sitemap: https://lagumelayu.herokuapp.com/sitemap.xml
